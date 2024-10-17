@@ -5,7 +5,7 @@ from datetime import datetime
 
 # Firebase yapılandırma bilgilerini burada girin
 config = {
-    "apiKey": "AIzaSyBj6r8qK30L7NTspBnR-XJV8HKSN5KjJt8",
+    "apiKey": "apikey",
     "authDomain": "ekmek-sayaci.firebaseapp.com",
     "databaseURL": "https://ekmek-sayaci-default-rtdb.firebaseio.com/",  # Doğru URL
     "projectId": "ekmek-sayaci",
