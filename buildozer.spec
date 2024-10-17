@@ -3,7 +3,7 @@
 # (str) Title of your application
 title = Ekmek Sayaci
 
-# (str) Package name
+# (str) Package name 
 package.name = ekmeksayaci
 
 # (str) Package domain (needed for android/ios packaging)
